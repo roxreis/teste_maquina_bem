@@ -28,7 +28,7 @@ php artisan serve
 
 cd frontend 
 
-Se não tiver um servidor instalado na maquina, usar: php -S localhost:8000  
+Se não tiver um servidor instalado na maquina, usar: php -S localhost:8001
 
 
 
