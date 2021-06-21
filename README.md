@@ -1,10 +1,14 @@
-API REST
+# 1ª API REST
 
 
 Implemente uma API REST utilizando Laravel 8 para uma aplicação de gerenciamento de tarefas (TODO). Implemente um CRUD simples utilizando o banco de dados sqlite.
 
+# 2ª Programação orientada a objetos
 
-# Instruções  
+Implemente uma solução para uma aplicação de gerenciamento de tarefas (TODO), na implementação utilize os conceitos de herança e abstração. 
+
+
+# Instruções Api
 
 git clone https://github.com/roxreis/teste_maquina_bem    
 
@@ -19,13 +23,8 @@ php artisan migrate
 php artisan serve    
 
 
-
-Programação orientada a objetos
-
-
-Implemente uma solução para uma aplicação de gerenciamento de tarefas (TODO), na implementação utilize os conceitos de herança e abstração.    
-
-# Instruções  
+# Instruções Consumo da Api
+   
 
 cd frontend 
 
