@@ -1,47 +1,22 @@
-Etapa 1 - Programação orientada a objetos
-
-
-Implemente uma solução para uma aplicação de gerenciamento de tarefas (TODO), na implementação utilize os conceitos de herança e abstração.
-
-
-O que valorizamos:
-
-
-Simplicidade e limpeza de código
-
-Reusabilidade
-
-Semântica
-
-Uso de PSR's
-
-
 Etapa 2 - API REST
 
 
 Implemente uma API REST utilizando Laravel 8 para uma aplicação de gerenciamento de tarefas (TODO). Implemente um CRUD simples utilizando o banco de dados sqlite.
 
 
-O que valorizamos:
+# Instruções  
 
+git clone https://github.com/roxreis/teste_maquina_bem    
 
-Simplicidade e limpeza de código
+cd backend    
 
-Reusabilidade
+composer install    
 
-Semântica
+php artisan key:generate    
 
-Uso de PSR's
+php artisan migrate    
 
-Utilização dos recursos e boas práticas do framework.
-
-
-
-
-
-
-
-
+php artisan serve    
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
